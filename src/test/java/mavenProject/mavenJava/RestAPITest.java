@@ -14,6 +14,10 @@ public class RestAPITest {
 	{
 		System.out.println("deleteTwitter");
 	}
+	public void PostJira12()
+	{
+		System.out.println("PostJira12");
+	}
 
 
 }
